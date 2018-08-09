@@ -28,3 +28,9 @@ extension UIView {
         self.layer.insertSublayer(gradientLayer, at: 0)
     }
 }
+
+/*
+ 
+ If you are trying to use this extension in a view created programmatically keep in mind that it is necessary to set the views dimensions before this method is called. Otherwise, the gradient layer will not appear.
+ 
+*/
