@@ -1,10 +1,5 @@
-//
-//  UIView.swift
-//  BookUp
-//
 //  Created by Luiz Fernando Cunha Duarte on 02/08/18.
-//  Copyright © 2018 BemEstamos. All rights reserved.
-//
+
 
 import Foundation
 import UIKit
